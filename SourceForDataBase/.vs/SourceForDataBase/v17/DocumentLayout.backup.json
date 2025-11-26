@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|c:\\lab_it008\\gameee\\sourcefordatabase\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E433D-5CA2-4D71-9626-45B0B213B125}|SourceForDataBase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T07:56:00.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\GameForm.cs [Design]",
+              "RelativeToolTip": "GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:14:09.445Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\FormRegister.cs [Design]",
+              "RelativeToolTip": "FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:37:36.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\GameForm.cs",
+              "RelativeToolTip": "GameForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:14:26.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA/wLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T07:56:31.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\FormRegister.cs",
+              "RelativeToolTip": "FormRegister.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:37:40.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LAB_IT008\\GAMEEE\\SourceForDataBase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T07:56:08.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\LAB_IT008\GAMEEE\SourceForDataBase\bin\Debug\SourceForDataBase.exe.config
+C:\LAB_IT008\GAMEEE\SourceForDataBase\bin\Debug\SourceForDataBase.exe
+C:\LAB_IT008\GAMEEE\SourceForDataBase\bin\Debug\SourceForDataBase.pdb
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.csproj.AssemblyReference.cache
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.Form1.resources
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.FormRegister.resources
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.GameForm.resources
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.Properties.Resources.resources
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.csproj.GenerateResource.cache
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.csproj.CoreCompileInputs.cache
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.exe
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.pdb
+C:\LAB_IT008\GAMEEE\SourceForDataBase\obj\Debug\SourceForDataBase.exe.config
