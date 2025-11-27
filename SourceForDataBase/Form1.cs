@@ -21,7 +21,7 @@ namespace SourceForDataBase
 
         public class Database
             {
-            public static string connString =  "Data Source=localhost;Initial Catalog=GAMEDOAN;User ID=AcountForGame;Password=QuyetTam8UpDoAn;";
+            public static string connString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=GAMEDOAN;Integrated Security=True;";
             public static SqlConnection GetConnection()
                 {
                     return new SqlConnection(connString);
